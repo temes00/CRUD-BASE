@@ -1,0 +1,8 @@
+2018-10-11T08:25:59.460075Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2018-10-11T08:25:59.466891Z 0 [System] [MY-013169] [Server] C:\Server\bin\mysql-8.0.12\bin\mysqld (mysqld 8.0.12) initializing of server in progress as process 528
+2018-10-11T08:26:20.604447Z 5 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2018-10-11T08:26:33.311582Z 0 [System] [MY-013170] [Server] C:\Server\bin\mysql-8.0.12\bin\mysqld (mysqld 8.0.12) initializing of server has completed
+2018-10-11T08:27:02.182741Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2018-10-11T08:27:02.182985Z 0 [System] [MY-010116] [Server] C:\Server\bin\mysql-8.0.12\bin\mysqld (mysqld 8.0.12) starting as process 7880
+2018-10-11T08:27:06.311229Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2018-10-11T08:27:06.978557Z 0 [System] [MY-010931] [Server] C:\Server\bin\mysql-8.0.12\bin\mysqld: ready for connections. Version: '8.0.12'  socket: ''  port: 3306  MySQL Community Server - GPL.
